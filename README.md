@@ -1,0 +1,2 @@
+# myNewsScraper
+Homework 18
